@@ -1,0 +1,11 @@
+* A summary of the project idea:
+creat the project structure. 
+
+* A list of all problems/solutions/new things you learned during the project:
+  We created a propertyController to aid us interact with our Mongoose model.
+  
+
+* Your daily schedule, including the daily tasks assigned to each team member:
+
+
+* Copy/paste your config file (all secret keys) and include that in the email:
